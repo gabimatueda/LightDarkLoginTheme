@@ -1,4 +1,4 @@
-<h1 align="center"> Login com tema Light e Dark </h1>
+<h1 align="center"> Login com tema light e dark </h1>
 
 ## 💻 Projeto
 
